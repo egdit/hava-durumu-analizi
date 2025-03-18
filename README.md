@@ -5,8 +5,7 @@ Bu proje, **hava durumu verilerini analiz ederek sıcaklık, nem ve rüzgar değ
 ## 📌 Proje Hedefleri
 ✅ Hava durumu verilerini **temizleme ve düzenleme** 🧼  
 ✅ **Sıcaklık, nem ve rüzgar hızı** gibi değişkenleri analiz etme 📊  
-✅ **Matplotlib ve Seaborn** ile veri görselleştirme 📉  
-✅ Gelecekte **hava tahmini modelleri** için temel oluşturma 🔮  
+✅ **Matplotlib ve Seaborn** ile veri görselleştirme 📉   
 
 ## 🛠 Kullanılan Teknolojiler
 - **Python** 🐍
