@@ -1,4 +1,4 @@
-# 🌦 Hava Durumu Analizi 🚀
+# 🌦 Hava Durumu Analizi 
 
 Bu proje, **hava durumu verilerini analiz ederek sıcaklık, nem ve rüzgar değişimlerini** incelemeyi amaçlamaktadır. Python'un güçlü veri analizi araçlarını kullanarak, hava durumu trendlerini anlamaya çalışacağız.
 
