@@ -19,3 +19,7 @@ hava-durumu-analizi/
 │── hava_durumu_analizi.ipynb  # Jupyter Notebook Analizleri
 │── README.md              # Proje Açıklaması
 ```
+
+## Veri Kaynağı: Meteoblue (https://www.meteoblue.com/)
+Tarih,Sıcaklık (°C),Yağış (mm),Nem (%),Rüzgar Hızı (km/h),Bulut Örtüsü (%),Basınç (hPa)
+2024-01-01T00:00,6.5,0,81.2,34.5,73,1012.5
