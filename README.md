@@ -15,9 +15,9 @@ Bu proje, **hava durumu verilerini analiz ederek sıcaklık, nem ve rüzgar değ
 ## 📂 Proje Dosya Yapısı
 ```
 hava-durumu-analizi/
-│── data/                 # Hava durumu veri setleri (CSV, JSON vb.)
-│── hava_durumu_analizi.ipynb  # Jupyter Notebook Analizleri
-│── README.md              # Proje Açıklaması
+│── data/
+│── hava_durumu_analizi.ipynb
+│── README.md
 ```
 
 ## 📊 Veri Kaynağı: Meteoblue
