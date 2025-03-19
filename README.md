@@ -22,6 +22,6 @@ hava-durumu-analizi/
 
 ## 📊 Veri Kaynağı: Meteoblue (https://www.meteoblue.com/)
 ```
-Tarih,Sıcaklık (°C),Yağış (mm),Nem (%),Rüzgar Hızı (km/h),Bulut Örtüsü (%),Basınç (hPa)
-2024-01-01T00:00,6.5,0,81.2,34.5,73,1012.5
+timestamp,Basel Temperature [2 m elevation corrected],Basel Precipitation Total,Basel Relative Humidity [2 m],Basel Wind Gust,Basel Cloud Cover Total,Basel Mean Sea Level Pressure [MSL]
+20240101T0000,6.5302453,0.0,81.2849,34.56,73.0,1012.5
 ```
