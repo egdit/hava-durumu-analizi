@@ -21,7 +21,7 @@ hava-durumu-analizi/
 ```
 
 ## 📊 Veri Kaynağı: Meteoblue
-🌍 [Meteoblue](https://www.meteoblue.com/) - Tarihsel hava durumu verisi (2024-01-01 - 2025-03-18, **Basel, İsviçre**)
+🌍 [Meteoblue](https://www.meteoblue.com/) - Hava durumu verisi (2024-01-01 - 2025-03-18, **Basel, İsviçre**)
 ```
 timestamp,Basel Temperature [2 m elevation corrected],Basel Precipitation Total,Basel Relative Humidity [2 m],Basel Wind Gust,Basel Cloud Cover Total,Basel Mean Sea Level Pressure [MSL]
 20240101T0000,6.5302453,0.0,81.2849,34.56,73.0,1012.5
