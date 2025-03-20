@@ -1,28 +1,21 @@
-# 🌦 Hava Durumu Analizi 
+# 🌦️ Hava Durumu Analizi
 
-Bu proje, **hava durumu verilerini analiz ederek sıcaklık, nem ve rüzgar değişimlerini** incelemeyi amaçlamaktadır. Python'un güçlü veri analizi araçlarını kullanarak, hava durumu trendlerini anlamaya çalışacağız.
+Bu proje, **Basel, İsviçre’nin 2024-2025 yılları arasındaki hava durumu verilerini analiz etmektedir.**  
+Veriler **Meteoblue** sitesinden alınmıştır.  
 
-## 📌 Proje Hedefleri
-✅ Hava durumu verilerini **temizleme ve düzenleme** 🧼  
-✅ **Sıcaklık, nem ve rüzgar hızı** gibi değişkenleri analiz etme 📊  
-✅ **Matplotlib ve Seaborn** ile veri görselleştirme 📉  
+## 📌 İçerik:
+✅ Veri temizleme işlemleri  
+✅ Sıcaklık, nem, yağış ve rüzgar analizi  
+✅ Aylık ortalama değişimler  
+✅ Korelasyon ve veri görselleştirme  
 
-## 🛠 Kullanılan Teknolojiler
-- **Python** 🐍
-- **Pandas** (Veri İşleme)
-- **Matplotlib & Seaborn** (Görselleştirme)
+## 📂 Veri Kaynağı:
+🌍 [Meteoblue](https://www.meteoblue.com/)  
 
-## 📂 Proje Dosya Yapısı
-```
-hava-durumu-analizi/
-│── data/
-│── hava_durumu_analizi.ipynb
-│── README.md
-```
+## 📊 Kullanılan Araçlar:
+- Python 🐍  
+- Pandas (Veri işleme)  
+- Matplotlib & Seaborn (Görselleştirme)  
 
-## 📊 Veri Kaynağı: Meteoblue
-### 🌍 [Meteoblue](https://www.meteoblue.com/) - Hava durumu verisi (2024-01-01 - 2025-03-18, **Basel, İsviçre**)
-```
-timestamp,Basel Temperature [2 m elevation corrected],Basel Precipitation Total,Basel Relative Humidity [2 m],Basel Wind Gust,Basel Cloud Cover Total,Basel Mean Sea Level Pressure [MSL]
-20240101T0000,6.5302453,0.0,81.2849,34.56,73.0,1012.5
-```
+## 🚀 Nasıl Kullanılır?
+Bu projeyi çalıştırmak için `hava_durumu_analizi.ipynb` dosyasını Jupyter Notebook'ta açıp çalıştırabilirsin.  
